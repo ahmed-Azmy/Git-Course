@@ -1,0 +1,280 @@
+body{
+    height: 100%;
+    margin: 0;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+ .container{
+    
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    height: 100%;
+}
+.one img{
+    float: left;
+    width: 150px;
+    /* height: 45px; */
+    margin-left:70px;
+    margin-top: 20px;
+
+}
+.diva{
+    float: right;
+    margin-right: 60px;
+}
+.one a{
+    float: left;
+    padding: 15px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    
+}
+.clr{
+    clear: both;
+}
+.divp{
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+p{
+    font-size: 24px;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    margin-bottom: 45px;
+    text-align: center;
+}
+button{
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background: #8e7754;
+}
+.btn2{
+    background-color: transparent;
+    border: 2px white solid;
+    margin-left: 8px;
+}
+/* .new{
+    float: left;
+    text-align: center;
+    margin-left: auto auto;
+    width: 50%;
+}
+.new img{
+    display: block;
+    margin-top: auto auto;
+    
+} */
+.center{
+ float: left;
+  /* width: 500px; */
+  width: 40%;
+  margin-top: 55px;
+  margin-bottom: 20px;
+  margin-left: 100px;
+}
+
+.right{
+    /* background-color: #eee; */
+    margin-top: 100px;
+    margin-left:70px;
+    float: left;
+    /* width: 530px; */
+    width: 45%;
+}
+.right p{
+    font-size: 16px;
+    
+}
+.pra{
+      float: left;
+      margin-left: 25px;
+      padding: 6px;
+}
+.pra p{
+  
+    text-align: left;
+}
+.pra1 , .pra2 {
+    margin-left: 0px;
+}
+.img2{
+    float: right;
+    /* width: 500px; */
+    width: 40%;
+    margin-top: 95px;
+    margin-right: 100px;
+}
+.des{
+    float: left;
+    /* background-color: red; */
+    /* width: 500px; */
+    width: 42%;
+    margin-top: 130px;
+    margin-left: 75px;
+}
+.des p{
+    font-size: 16px;
+}
+.section3{
+    background-color: #eee;
+    height: 100%;
+}
+.one1{
+    /* background-color: red; */
+    float: left;
+    width: 27%;
+    margin-left: 90px;
+    margin-right: 25px;
+    margin-bottom:50px;
+}
+.one1 img{
+    width: 100%;
+}
+
+.one2{
+    /* background-color: red; */
+    float: left;
+    width: 27%;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.one2 img{
+    width: 100%;
+}
+
+.one3{
+    /* background-color: red; */
+    float: left;
+    width: 27%;
+    margin-left: 25px;
+}
+.one3 img{
+    width: 100%;
+}
+h3{
+    text-align: left;
+    font-size: 16px;
+}
+/* .section4{
+    margin-bottom: 80px;
+} */
+.two{
+    /* background-color: tomato; */
+    width: 45%;
+    margin-top: 100px;
+    float: left;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+
+/* .two p{
+    text-align: left;
+} */
+.twop{
+    text-align: left;
+    margin-left: 20px;
+    padding: 5px;
+}
+.three{
+    /* background-color: rgb(102, 33, 43); */
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 430px;
+    height: 430px;
+}
+.three img{
+    width: 100%;
+    height: 100%;
+}
+.section4 p{
+    font-size: 16px;
+}
+.section5{
+    background-color: #eee;
+    height: 100%;
+}
+.section5 p{
+    font-size: 16px;
+}
+ .section6{
+    width: 100%;
+    height: 500px;
+    background-color: #403d38;
+     
+} 
+.sec61{
+    float: left;
+    width: 22%;
+    /* background-color: cadetblue; */
+    color: #969696;
+    padding-top: 10px;
+    margin-left: 60px;
+    margin-right: 10px;
+}
+.sec61 p{
+    font-size: 20px;
+}
+.sec62{
+    float: left;
+    width: 22%;
+    /* background-color: cadetblue; */
+    color: #969696;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sec62 li{
+    padding: 15px;
+}
+.sec63{
+    float: left;
+    width: 22%;
+    /* background-color: cadetblue; */
+    color: #969696;
+    padding-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.sec63 li{
+    padding: 15px;
+}
+.sec64{
+    float: left;
+    width: 22%;
+    /* background-color: cadetblue; */
+    color: #969696;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.sec64 li{
+    padding: 15px;
+}
+.section7{
+    background-color: #353330;
+    height: 250px;
+    text-align: center;
+    color: white;
+}
+.section7 p{
+    font-size: 14px;
+}
+.imgcenter{
+    margin-top: 40px;
+    width: 250px;
+
+}
+.sec64 a{
+    text-decoration: none;
+    color: #969696;
+    font-size: 16px;
+}
