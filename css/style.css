@@ -2,6 +2,7 @@ body{
     height: 100%;
     margin: 0;
     font-family: 'Alegreya Sans SC', sans-serif;
+    background-color: red;
 }
  .container{
     
@@ -13,7 +14,7 @@ body{
     float: left;
     width: 150px;
     /* height: 45px; */
-    margin-left:70px;
+    margin-left:10px;
     margin-top: 20px;
 
 }
@@ -39,7 +40,7 @@ body{
     margin-top: 60px;
 }
 p{
-    font-size: 24px;
+    font-size: 50px;
     text-align: center;
 }
 h1{
